@@ -13,8 +13,8 @@ Nesse projeto pretendo criar um programa que faça uma análise completa sobre a
 As contas devem conter as seguintes informações:
 - Nome de identificação da conta
 - Valor da conta
-- Número de parcelas da conta (caso seja uma conta de uma única parcela esse valor é definido como 1)
-- Prioridade da conta (esse valor vai de 1 a 10, sendo 1 a menor prioridade e 10 a maior)
+- Número de parcelas da conta
+- Prioridade da conta (Alta, Média, Baixa)
 - Parcela atual da conta (caso a conta tenha mais de uma parcela)
 - Tipo da conta (por exemplo, força, água, cartão, mercado, lazer, etc)
 - Opção de pago ou não
